@@ -1,2 +1,3 @@
 # Basic-GPA-Calculator
-A very simple GPA Calculator that uses your grades and gpas from 3 classes to create a cumulative gpa
+To preface, this is my first repo on github after beginning Python.
+I've created a very simple GPA Calculator that uses your grades and gpas from 3 classes to create a cumulative gpa. I was using unchangeable variables in the code earlier and just commented them out so dont mind them.
